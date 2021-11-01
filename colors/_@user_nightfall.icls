@@ -4,7 +4,7 @@
     <property name="created">2021-10-26T14:12:03</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.2.3.0.0</property>
-    <property name="modified">2021-10-29T14:28:08</property>
+    <property name="modified">2021-11-01T13:57:12</property>
     <property name="originalScheme">nightfall</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -3659,10 +3659,10 @@
     <option name="com.plan9.LABEL" baseAttributes="" />
     <option name="com.plan9.PSEUDO_INSTRUCTION" baseAttributes="" />
     <option name="com.plan9.REGISTER" baseAttributes="" />
-    <option name="org.rust.LIFETIME" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="org.rust.MUT_BINDING" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="org.rust.MUT_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
-    <option name="org.rust.TYPE_PARAMETER" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="org.rust.LIFETIME" baseAttributes="" />
+    <option name="org.rust.MUT_BINDING" baseAttributes="" />
+    <option name="org.rust.MUT_PARAMETER" baseAttributes="" />
+    <option name="org.rust.TYPE_PARAMETER" baseAttributes="" />
     <option name="org.rust.UNSAFE_CODE">
       <value />
     </option>
