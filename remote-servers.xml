@@ -1,0 +1,18 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="Docker-store" type="docker">
+      <configuration>
+        <option name="apiUrl" value="unix:///var/run/docker.sock" />
+        <option name="certificatesPath" />
+        <option name="pathMappings">
+          <list>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="$USER_HOME$/Codes/musinsa/web/store" />
+              <option name="virtualMachinePath" value="/home/appuser/php/store" />
+            </DockerPathMappingImpl>
+          </list>
+        </option>
+      </configuration>
+    </remote-server>
+  </component>
+</application>
