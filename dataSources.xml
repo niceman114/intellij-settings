@@ -1,0 +1,12 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="develdb.db.devel.corp.musinsa.com" uuid="1fd30c0f-6fa0-4edd-985d-f218e242248d">
+      <driver-ref>mysql_aurora</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>무신사 개발DB</remarks>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mariadb://develdb.db.devel.corp.musinsa.com:3306/bizest</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</application>
