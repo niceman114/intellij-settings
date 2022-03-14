@@ -4,7 +4,7 @@
     <property name="created">2021-10-26T14:12:03</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.2.3.0.0</property>
-    <property name="modified">2021-12-16T19:31:11</property>
+    <property name="modified">2022-03-14T10:16:57</property>
     <property name="originalScheme">nightfall</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -1008,22 +1008,32 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="2c2e28" />
+        <option name="BACKGROUND" value="353843" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="232e2c" />
+        <option name="BACKGROUND" value="333c40" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="2c2535" />
+        <option name="BACKGROUND" value="3a3d3f" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="202d34" />
+        <option name="BACKGROUND" value="3e3a3d" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="3e353b" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="3e3038" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
