@@ -1,7 +1,7 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="201">
     <driver id="h2.unified">
-      <artifact id="H2" name="H2" use="true" version="1.4.200" />
+      <artifact id="H2" name="H2" use="true" version="2.1.210" />
     </driver>
     <driver id="mariadb" dialect="MySQL">
       <artifact id="MariaDB Connector J" name="MariaDB Connector J" use="true" version="2.7.3" />
@@ -9,5 +9,6 @@
     <driver id="mysql_aurora">
       <artifact id="MariaDB Connector J" name="MariaDB Connector J" use="true" version="2.7.3" />
     </driver>
+    <driver id="java.sql.Driver" name="User Driver" driver-class="java.sql.Driver" />
   </component>
 </application>
