@@ -1,0 +1,8 @@
+<templateSet group="my">
+  <template name="rlv" value="return $VAR$;" description="Return with last variable." toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
