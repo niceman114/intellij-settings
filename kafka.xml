@@ -1,6 +1,5 @@
 <application>
   <component name="KafkaSettings">
-    <option name="dataUpdateIntervalMillis" value="5000" />
     <option name="selectedConnectionId" value="Kafka connection@KafkaConnections@-6189897658761138326" />
   </component>
 </application>

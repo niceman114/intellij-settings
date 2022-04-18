@@ -1,0 +1,56 @@
+<application>
+  <component name="BdtKafkaConfigTemplate">
+    <option name="consumerRunConfigs">
+      <list>
+        <StorageConsumerConfig>
+          <option name="filter">
+            <map>
+              <entry key="type" value="NONE" />
+            </map>
+          </option>
+          <option name="keyType" value="LONG" />
+          <option name="limit">
+            <map>
+              <entry key="time" value="" />
+              <entry key="type" value="NONE" />
+              <entry key="value" value="" />
+            </map>
+          </option>
+          <option name="startWith">
+            <map>
+              <entry key="offset" value="" />
+              <entry key="time" value="" />
+              <entry key="type" value="NOW" />
+            </map>
+          </option>
+          <option name="topic" value="test-topic" />
+          <option name="valueType" value="STRING" />
+        </StorageConsumerConfig>
+        <StorageConsumerConfig>
+          <option name="filter">
+            <map>
+              <entry key="type" value="NONE" />
+            </map>
+          </option>
+          <option name="keyType" value="STRING" />
+          <option name="limit">
+            <map>
+              <entry key="time" value="" />
+              <entry key="type" value="NONE" />
+              <entry key="value" value="" />
+            </map>
+          </option>
+          <option name="startWith">
+            <map>
+              <entry key="offset" value="" />
+              <entry key="time" value="" />
+              <entry key="type" value="NOW" />
+            </map>
+          </option>
+          <option name="topic" value="test-topic" />
+          <option name="valueType" value="STRING" />
+        </StorageConsumerConfig>
+      </list>
+    </option>
+  </component>
+</application>
