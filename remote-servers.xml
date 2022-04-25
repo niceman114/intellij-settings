@@ -1,6 +1,6 @@
 <application>
   <component name="RemoteServers">
-    <remote-server name="Docker-store" type="docker">
+    <remote-server name="store" type="docker">
       <configuration>
         <option name="apiUrl" value="unix:///var/run/docker.sock" />
         <option name="certificatesPath" />
@@ -14,7 +14,7 @@
         </option>
       </configuration>
     </remote-server>
-    <remote-server name="ToyDocker" type="docker">
+    <remote-server name="toy" type="docker">
       <configuration>
         <option name="apiUrl" value="unix:///var/run/docker.sock" />
         <option name="certificatesPath" />
